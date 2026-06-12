@@ -1,0 +1,5 @@
+PySide6
+ollama
+pyttsx3
+SpeechRecognition
+pywin32
