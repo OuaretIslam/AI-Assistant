@@ -64,3 +64,7 @@ This project does not require stored API keys. It uses local Ollama for AI respo
 - `brain.py` turns user text into assistant actions using regex shortcuts and Ollama.
 - `commands.py` executes app, website, search, news, weather, note, and typing actions.
 - `voice.py` handles speech recognition and text-to-speech.
+## Screenshot
+
+![IMOT voice assistant screenshot](assets/GUI.png)
+![IMOT voice assistant screenshot in action](assets/GUI2.png)
