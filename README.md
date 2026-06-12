@@ -68,3 +68,9 @@ This project does not require stored API keys. It uses local Ollama for AI respo
 
 ![IMOT voice assistant screenshot](assets/GUI.png)
 ![IMOT voice assistant screenshot in action](assets/GUI2.png)
+
+## Preview
+
+![IMOT futuristic desktop assistant interface](assets/GUI.png)
+
+![IMOT futuristic desktop assistant interface](assets/GUI2.png)
