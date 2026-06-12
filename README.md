@@ -2,6 +2,12 @@
 
 IMOT is a Windows desktop AI voice assistant built with Python. It combines a custom PySide6 HUD, speech recognition, text-to-speech, local AI planning through Ollama/Llama 3, and desktop automation.
 
+## Preview
+
+![IMOT main interface](assets/GUI.png)
+
+![IMOT assistant interface](assets/GUI2.png)
+
 ## Features
 
 - Voice and typed command input
